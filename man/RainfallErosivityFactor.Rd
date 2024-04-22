@@ -5,8 +5,9 @@
   Determination of rainfall-runoff erosivity factor
 }
 \author{
-  Edilson Marcelino Silva \email{edilsonmg3@hotmail.com}
   Dione Pereira Cardoso \email{cardoso.dione@gmail.com}
+  Edilson Marcelino Silva \email{edilsonmg3@hotmail.com}
+  Paulo Cesar Ossani \email{ossanipc@hotmail.com}
   Marx Leandro Naves Silva \email{marx@dcs.ufla.br}
   Joel Augusto Muniz \email{joamuniz@des.ufla.br}
   Daniel Furtado Ferreira \email{danielff@des.ufla.br}
@@ -16,8 +17,8 @@
   \tabular{ll}{
    Package: \tab RainfallErosivityFactor\cr
    Type: \tab Package\cr
-   Version: \tab 0.1.0\cr
-   Date: \tab 2018-11-08\cr
+   Version: \tab 1.0.0\cr
+   Date: \tab 2024-04-22\cr
    License: \tab GPL (>= 2)\cr\cr
   }
 }
